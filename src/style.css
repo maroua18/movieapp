@@ -1,0 +1,23 @@
+.App{
+     background-color: lightgray;
+     margin-left: 150px;
+     margin-right: 150px;
+     border: 1px solid black
+ }
+.nav{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+       
+}
+
+input{
+    width: 400px;
+
+}
+.movies-list{
+
+}
+.image{
+    width: 150px,
+}
